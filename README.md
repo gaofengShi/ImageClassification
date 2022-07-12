@@ -6,7 +6,11 @@ Dataset is an image classification dataset, which has 3 classes are tomato, cher
 The project will follow the image processing, image classidifcation (PyTorch/torchvision). 
 
 Aiml421 project code
+
 train.ipynb is jupyter notebook python can by run on anaconda or colab. It is for train the CNN model. 
+
 test.ipynb is jupyter notebook python can by run on anaconda or colab. It is for load the model and load the testdata set.
+
 model.pth is saved image classification Pytorch cnn.model.
+
 testdata fold contain three sub directories which are Cherry, Strawberry, Tomato of the three class images.
